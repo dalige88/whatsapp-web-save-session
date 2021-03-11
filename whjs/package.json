@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp-getqr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "gornostay25",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "cli-table3": "^0.6.0",
+    "clui": "^0.3.6",
+    "crypto": "^1.0.1",
+    "curve25519-js": "^0.0.4",
+    "figlet": "^1.5.0",
+    "futoin-hkdf": "^1.3.3",
+    "mcc-mnc-list": "^1.1.4",
+    "ws": "^7.4.4"
+  }
+}
